@@ -1,2 +1,8 @@
-# Toggle-Theme-Login-page
-This React.js login page features a dynamic theme toggle functionality that seamlessly switches between light and dark themes. Users can enjoy a personalized visual experience, enhancing accessibility and user interface preferences. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
