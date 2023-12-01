@@ -1,4 +1,4 @@
-<h1 align="center">ToggleThee-LoginPage</h1>
+<h1 align="center">ToggleTheme-LoginPage</h1>
 
 ## Screenshot
 🌝 **Light Mode:**
